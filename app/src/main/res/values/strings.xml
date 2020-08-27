@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TSS Test Auth</string>
+    <string name="main_text">Если Вы видите этот текст, значит авторизация по номеру телефона прошла успешно.</string>
+    <string name="get_code">Получить код</string>
+</resources>
